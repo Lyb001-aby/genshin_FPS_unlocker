@@ -47,7 +47,7 @@
 ### 食用方法
 
 > ⚠️ **重要：本程序必须以管理员身份运行！**  
-> 右键点击 `genshinFPS.exe` → 选择「以管理员身份运行」
+> 右键点击 `genshinFPS.exe` → 选择「以管理员身份运行」（不过理论上我上传的应该已经设置了管理员权限启动）
 
 #### 首次使用
 1. 从 [Releases](https://github.com/xiaonian233/genshin-fps-unlock/releases) 下载最新版本
