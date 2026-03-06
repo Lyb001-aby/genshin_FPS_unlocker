@@ -50,7 +50,7 @@
 > 右键点击 `genshinFPS.exe` → 选择「以管理员身份运行」（不过理论上我上传的应该已经设置了管理员权限启动）
 
 #### 首次使用
-1. 从 [Releases](https://github.com/xiaonian233/genshin-fps-unlock/releases) 下载最新版本
+1. 从 [Releases](https://github.com/Lyb001-aby/genshin_FPS_unlocker/releases) 下载最新版本
 2. **以管理员身份运行** `genshinFPS.exe`
 3. 首次运行程序时，会提示启动原神
 4. 启动原神后，程序会自动获取原神路径
